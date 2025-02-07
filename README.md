@@ -1,2 +1,3 @@
 # -Project-Practice-Demo
-This is my my first repository.
+This is my  first repository.
+Auther Name-Priti Sunil Rinayate
